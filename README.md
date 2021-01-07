@@ -79,11 +79,11 @@ You can join our [discord](https://discord.gg/bMwaAxDyNv)
 
 ## Contributors
 
-- Ilhan Yapici <ilhan.yapici@edu.devinci.fr>
-- Simon Lellouche <simon.lellouche@edu.devinci.fr>
-- Alexandre Francony <Alexandre.francony@edu.devinci.fr>
-- Tom Gosset <tom.gosset@edu.devinci.fr>
-- Matthieu Roman <matthieu.roman@edu.devinci.fr>
+- **M**atthieu Roman <matthieu.roman@edu.devinci.fr>
+- **A**lexandre Francony <Alexandre.francony@edu.devinci.fr>
+- **T**om Gosset <tom.gosset@edu.devinci.fr>
+- **I**lhan Yapici <ilhan.yapici@edu.devinci.fr>
+- **S**imon Lellouche <simon.lellouche@edu.devinci.fr>
 
 Sincerely
 
